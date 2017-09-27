@@ -1,9 +1,9 @@
 {
-    "title": "Test III",
-    "description": null,
+    "title": "Test Again 3",
+    "description": "",
     "referenceId": null,
     "date_created": "1505857599",
-    "date_modified": "1505857607",
+    "date_modified": "1506526257",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -14,6 +14,11 @@
     "titleTextEncoded": "Test-III",
     "category": null,
     "duration": null,
-    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
     "transcripts": null
 }
