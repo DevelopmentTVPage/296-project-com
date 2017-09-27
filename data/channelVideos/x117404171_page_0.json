@@ -3,7 +3,7 @@
     "data": [
         {
             "id": "117404172",
-            "title": "CNL 20 Graduation",
+            "title": "CNL 20 Graduation 2",
             "date_created": "1434533736",
             "loginId": "1758991",
             "tags": "",
@@ -18,7 +18,9 @@
                 "author": "SDCKC",
                 "mediaDuration": 116,
                 "prettyDuration": "00:01:56",
-                "views": "34"
+                "views": "34",
+                "uploadAsset": false,
+                "quality": ""
             },
             "parentId": "117404171",
             "url": "\/test-iii\/cnl-20-graduation\/117404171-117404172"
