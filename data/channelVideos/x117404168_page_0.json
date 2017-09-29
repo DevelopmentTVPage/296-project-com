@@ -2,6 +2,30 @@
     "pageNumber": 0,
     "data": [
         {
+            "id": "117404172",
+            "title": "CNL 20 Graduation 2a",
+            "date_created": "1434533736",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rzQ3DQ9TFcI\/sddefault.jpg",
+                "uploadDate": 1434533736,
+                "videoId": "rzQ3DQ9TFcI",
+                "title": "CNL 20 Graduation",
+                "description": "",
+                "author": "SDCKC",
+                "mediaDuration": 116,
+                "prettyDuration": "00:01:56",
+                "views": "34",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404168",
+            "url": "\/test-channel\/cnl-20-graduation\/117404168-117404172"
+        },
+        {
             "id": "117404144",
             "title": "TVPage. The Company.",
             "date_created": "1402215043",
